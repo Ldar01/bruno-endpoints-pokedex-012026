@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: http://localhost:8080/pokedex/pokemon/5
+  url: http://localhost:8080/pokedex/pokemon/4
   body:
     type: json
     data: ""

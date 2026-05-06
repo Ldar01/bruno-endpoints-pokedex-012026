@@ -10,8 +10,8 @@ http:
     type: json
     data: |-
       {
-        "name": "Pikachu",
-        "type": "Electric",
+        "full_name": "Evee",
+        "type": "Normal",
         "level": 1,
         "weakness": "None"
       }
